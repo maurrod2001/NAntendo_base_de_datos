@@ -1,0 +1,13 @@
+{
+  "RECORDS": [
+    {
+      "ID presupuesto": "1",
+      "encargo": "400000",
+      "personal": "300000",
+      "herramientas": "50000",
+      "artistas": "7000",
+      "marketing": "2147483647",
+      "innovacion": "ser su propio jefe"
+    }
+  ]
+}

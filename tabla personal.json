@@ -1,0 +1,32 @@
+{
+  "RECORDS": [
+    {
+      "ID personal": "1",
+      "nombre": "kris",
+      "apellido": "dremurr",
+      "cedula": "666",
+      "fecha nacimiento": "6/6/6666"
+    },
+    {
+      "ID personal": "2",
+      "nombre": "ralsei",
+      "apellido": "darkness",
+      "cedula": "555",
+      "fecha nacimiento": "17/9/2021"
+    },
+    {
+      "ID personal": "3",
+      "nombre": "susie",
+      "apellido": "deltarune",
+      "cedula": "444",
+      "fecha nacimiento": "17/9/2021"
+    },
+    {
+      "ID personal": "4",
+      "nombre": "dream",
+      "apellido": "kakorabiafobia",
+      "cedula": "111",
+      "fecha nacimiento": "1/1/2014"
+    }
+  ]
+}

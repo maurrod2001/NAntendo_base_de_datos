@@ -1,0 +1,19 @@
+{
+  "RECORDS": [
+    {
+      "ID grupo": "1",
+      "ID personal": "4",
+      "ID cargo": "2"
+    },
+    {
+      "ID grupo": "1",
+      "ID personal": "2",
+      "ID cargo": "4"
+    },
+    {
+      "ID grupo": "1",
+      "ID personal": "3",
+      "ID cargo": "3"
+    }
+  ]
+}

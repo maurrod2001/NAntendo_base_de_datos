@@ -1,0 +1,16 @@
+{
+  "RECORDS": [
+    {
+      "ID sede": "1",
+      "nombre sede": "deltarune",
+      "pais": "españa",
+      "ciudad": "madrid"
+    },
+    {
+      "ID sede": "2",
+      "nombre sede": "tacos",
+      "pais": "mexico",
+      "ciudad": "guadalayala"
+    }
+  ]
+}

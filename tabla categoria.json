@@ -1,0 +1,24 @@
+{
+  "RECORDS": [
+    {
+      "ID categoria": "1",
+      "nombre": "accion"
+    },
+    {
+      "ID categoria": "2",
+      "nombre": "terror"
+    },
+    {
+      "ID categoria": "3",
+      "nombre": "moba"
+    },
+    {
+      "ID categoria": "4",
+      "nombre": "mmorp"
+    },
+    {
+      "ID categoria": "5",
+      "nombre": "estrategia"
+    }
+  ]
+}

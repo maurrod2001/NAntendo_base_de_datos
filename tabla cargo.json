@@ -1,0 +1,28 @@
+{
+  "RECORDS": [
+    {
+      "ID cargo": "1",
+      "nombre  cargo": "fundador"
+    },
+    {
+      "ID cargo": "2",
+      "nombre  cargo": "encargado"
+    },
+    {
+      "ID cargo": "3",
+      "nombre  cargo": "programador"
+    },
+    {
+      "ID cargo": "4",
+      "nombre  cargo": "musico"
+    },
+    {
+      "ID cargo": "5",
+      "nombre  cargo": "arte personajes"
+    },
+    {
+      "ID cargo": "6",
+      "nombre  cargo": "animaciones"
+    }
+  ]
+}
