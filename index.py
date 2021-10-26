@@ -1,13 +1,18 @@
 import mysql.connector
 
+
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="lifegoesonandon",
-  database="nantendo"
+  password="bayonettaGOD"
+  # database="nantendo"
 )
 
 mycursor = mydb.cursor()
+
+mycursor.execute("CREATE DATABASE nantendo")
+mycursor.execute("use nantendo")
+
 
 mycursor.execute("CREATE TABLE tabla_cargo (ID_cargo int AUTO_INCREMENT PRIMARY KEY,"
   +"nombre_cargo VARCHAR(255) not null)")

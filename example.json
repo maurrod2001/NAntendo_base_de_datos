@@ -1,0 +1,12 @@
+{
+    "all":[
+        {
+            "saludo": "holas",
+            "pueba": "para tener un json"
+        },
+        {
+            "saludo": "adios",
+            "pueba": "bayonettaGOD"
+        }
+    ]
+}
